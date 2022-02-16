@@ -1,2 +1,5 @@
-package com.itum;public enum Seed {
+package com.itum;
+
+public enum Seed {
+    EMPTY, CROSS, NOUGHT
 }
